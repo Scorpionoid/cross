@@ -1,0 +1,40 @@
+body {
+    background-color: lightgray;
+    color: black;
+    font-family: Arial, sans-serif;
+}
+
+footer {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    color: darkblue;
+    padding: 10px;
+    border: thin dashed darkblue;
+}
+
+#notice {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.headline {
+    color: darkblue;
+    border-bottom: 2px dotted darkblue;
+}
+
+h1 {
+    text-shadow: 2px 2px 4px gray;
+    background-color: rgba(0, 0, 255, 0.5);
+    font-family: Arial, sans-serif;
+    font-size: 4em;
+}
+
+#section {
+    font-size: small;
+    color: red;
+    font-family: Arial, sans-serif;
+    background-color: white;
+    width: 80%;
+    box-shadow: 3px 3px 5px gray;
+}
